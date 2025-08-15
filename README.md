@@ -85,7 +85,7 @@ Output:
 🔊 Audio generated with MusicGen, downloadable and playable in-browser
 
 Screenshot of Application:
-
+![Application screenshot](https://github.com/SAHITHYA21/AI_Music_TimeMachine/blob/main/app_screenshot.png)
 
 ---
 
