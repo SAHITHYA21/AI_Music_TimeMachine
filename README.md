@@ -67,12 +67,14 @@ http://localhost:8501
 
 ## 📁 Project Structure
 
+```
 AI_Music_TimeMachine/
 │
-├── app.py                # Main Streamlit application
-├── requirements.txt      # Python dependencies
-├── README.md             # Project documentation
-└── generated_output.wav  # (Created during runtime)
+├── app.py # Main Streamlit application
+├── requirements.txt # Python dependencies
+├── README.md # Project documentation
+└── generated_output.wav # (Created during runtime)
+```
 
 ---
 
